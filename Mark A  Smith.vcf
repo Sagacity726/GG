@@ -1,0 +1,54 @@
+BEGIN:VCARD
+VERSION:2.1
+N;LANGUAGE=en-us:Smith;Mark;A.
+FN:Mark A. Smith
+TITLE:Supervisory Archaeologist
+TEL;WORK;VOICE:(314) 331-8831
+ADR;WORK;PREF:;;1222 Spruce St.;St. Louis;MO;63103;United States of America
+LABEL;WORK;PREF;ENCODING=QUOTED-PRINTABLE:1222 Spruce St.=0D=0A=
+St. Louis, MO 63103
+X-MS-OL-DEFAULT-POSTAL-ADDRESS:2
+URL;WORK:www.mvs.usace.army.mil
+EMAIL;PREF;INTERNET:Mark.A.Smith4@usace.army.mil
+X-MS-CARDPICTURE;TYPE=PNG;ENCODING=BASE64:
+ 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
+ V0HBb1qmuhl3n2+rAAAAAElFTkSuQmCC
+
+X-MS-OL-DESIGN;CHARSET=utf-8:<card xmlns="http://schemas.microsoft.com/office/outlook/12/electronicbusinesscards" ver="1.0" layout="left" bgcolor="ffffff"><img xmlns="" align="tleft" area="22" use="cardpicture"/><fld xmlns="" prop="name" align="left" dir="ltr" style="b" color="000000" size="10"/><fld xmlns="" prop="title" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="addrwork" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="telwork" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="telcell" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="email" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="webwork" align="left" dir="ltr" color="000000" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/><fld xmlns="" prop="blank" size="8"/></card>
+REV:20200220T191624Z
+END:VCARD
